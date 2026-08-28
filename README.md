@@ -2,8 +2,6 @@
 
 Particle Image Velocimetry (PIV) analysis pipeline for extracting 2D fluid velocity fields from video, and studying how kinetic energy decays over time. Built for a PJAS (Pennsylvania Junior Academy of Science) 2026 project.
 
-> See the file labeled **Presentation** in this repo for the full project writeup.
-
 ## What this does
 
 The pipeline takes a video of a fluid seeded with tracer particles (e.g. water in a rotating container) and:

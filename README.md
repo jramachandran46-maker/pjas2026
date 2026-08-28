@@ -1,4 +1,4 @@
-# pjas2026 - See the file labled PRESENTATION for more info
+# pjas2026 - See the file labled PJAS 2026 pdf for more info
 
 Particle Image Velocimetry (PIV) analysis pipeline for extracting 2D fluid velocity fields from video, and studying how kinetic energy decays over time. Built for a PJAS (Pennsylvania Junior Academy of Science) 2026 project.
 
